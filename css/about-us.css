@@ -1,0 +1,23 @@
+.main-text {
+    text-align: center;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.card-image {
+    max-height: 1080px;
+    max-width: 1920px;
+    height: 90%;
+    border-radius: 9px;
+    align-self: center;
+    object-fit: contain;
+    width: 90%;
+}
+
+.card-title {
+    border-bottom: 3px solid #6200EE;
+    padding-bottom: 5px;
+    width: 70%;
+    align-self: center;
+    border-radius: 7px;
+}

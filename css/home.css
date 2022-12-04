@@ -1,0 +1,18 @@
+body {
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.our-mission {
+    opacity: 60%;
+    margin-bottom: 0;
+}
+
+.main-image {
+    border-radius: 9px;
+    width: 100%;
+}
+
+.our-advantages {
+    font-size: 25px;
+}
