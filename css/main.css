@@ -143,6 +143,10 @@ footer {
         display: none;
     }
 
+    #go-up {
+        display: none;
+    }
+
     .header-link {
         margin-left: 3px;
         margin-right: 3px;
