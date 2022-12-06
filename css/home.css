@@ -3,6 +3,11 @@ body {
     padding-left: 3px;
 }
 
+header {
+    padding-right: 0;
+    padding-left: 0;
+}
+
 .our-mission {
     opacity: 60%;
     margin-bottom: 0;
