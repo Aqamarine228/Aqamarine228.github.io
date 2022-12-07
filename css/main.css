@@ -75,6 +75,8 @@ header {
 
 main {
     color: var(--on-surface);
+    margin-left: 3px;
+    margin-right: 3px;
 }
 
 .card {
@@ -89,6 +91,8 @@ main {
     margin-right: 3px;
     padding-top: 50px;
     min-height: 300px;
+    padding-left: 3px;
+    padding-right: 3px;
 }
 
 .card-text {
