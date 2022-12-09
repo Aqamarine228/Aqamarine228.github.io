@@ -40,7 +40,7 @@
 
 .values {
     display:grid;
-    grid-template-columns: minmax(30px , 500px) minmax(30px , 500px);
+    grid-template-columns: minmax(30px , 800px) minmax(30px , 800px);
     grid-row: auto;
     grid-column-gap: 20px;
     grid-row-gap: 20px;

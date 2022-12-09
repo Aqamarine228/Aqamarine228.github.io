@@ -1,4 +1,11 @@
+.card {
+    padding-left: 15%;
+    padding-right: 15%;
+}
 
+.main-text {
+    text-align: left;
+}
 
 .our-mission {
     opacity: 60%;
@@ -12,4 +19,43 @@
 
 .our-advantages {
     font-size: 25px;
+}
+
+.contact-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50px;
+}
+
+.contact-card a {
+    background-color: var(--primary);
+    color: var(--on-primary);
+    border-radius: 9px;
+    width: 70%;
+    font-size: 25px;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+}
+
+#overview {
+    background-image: url("../img/world-security.jpg");
+}
+
+#our-mission {
+    background-image: url("../img/our-mission.jpg");
+}
+
+#secure-networking {
+    background-image: url("../img/secure-networking.jpg");
+}
+
+#cloud-security {
+    background-image: url("../img/cloud-security.jpg");
+}
+
+#open-ecosystem {
+    background-image: url("../img/open-ecosystem.jpg");
 }
